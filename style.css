@@ -1,0 +1,39 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+
+}
+h1{
+    font-size: 33px;
+}
+.color-orange{
+    color: orange;
+}
+section{
+    display: flex;
+    margin-bottom: 120px;
+}
+.half-width{
+    width: 50%;
+    padding: 8%;
+}
+.half-width img{
+    width: 100%;
+}
+.link-click{
+    text-decoration: none;
+    background-image: linear-gradient(orange,red);
+    padding: 10px 40px;
+    border-radius: 25px;
+    color: white;
+    font-weight: 700;
+    
+}
+.top-banner{
+    background-image: url(images/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+}
+.diet{
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+}
